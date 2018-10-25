@@ -1,4 +1,4 @@
-import { Greeting } from "../../../types/graph";
+import { Greeting } from "types/graph";
 
 const resolvers = {
     Query: {
